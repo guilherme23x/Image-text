@@ -6,8 +6,6 @@ Para garantir o funcionamento correto, foi necessário configurar o caminho para
 
 Créditos
 
-• Código e implementação – Desenvolvido por [Seu Nome ou Pseudônimo].
-
 • Bibliotecas utilizadas:
 
 - CustomTkinter (Interface gráfica)
